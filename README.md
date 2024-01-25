@@ -42,7 +42,4 @@ Take advantage of personalized features by logging in with your GitHub or Google
 Contributing:
 Contributions are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
-License:
-This project is licensed under the MIT License, making it open for collaboration and use.
-
 🍿 Enjoy your streaming experience with Streamify!
