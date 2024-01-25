@@ -25,3 +25,24 @@ Streamify is a powerful React.js application designed for watching movies and TV
    git clone https://github.com/your-username/Streamify.git
    cd Streamify
    
+2. **Install Dependencies:**
+   ```bash
+   npm install
+
+3. **Run the Application:**
+   ```bash
+   npm start
+
+4. Explore and Stream:
+Open your browser and navigate to http://localhost:3000 to start exploring and streaming your favorite movies and TV series.
+
+5. Login with GitHub or Google:
+Take advantage of personalized features by logging in with your GitHub or Google account.
+
+Contributing:
+Contributions are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+
+License:
+This project is licensed under the MIT License, making it open for collaboration and use.
+
+🍿 Enjoy your streaming experience with Streamify!
