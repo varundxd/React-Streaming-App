@@ -2,6 +2,8 @@
 
 Streamify is a powerful React.js application designed for watching movies and TV series online, providing a complete streaming experience, and featuring embedded trailers. Users can enjoy a seamless streaming experience and login with their GitHub or Google accounts.
 
+My Website is live at : https://react-streaming-app.vercel.app/
+
 ## 🚀 Key Features:
 
 - 🎥 **Movie and TV Series Catalog:** Browse an extensive catalog of movies and TV series to find your favorite content.
