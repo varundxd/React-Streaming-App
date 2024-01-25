@@ -1,1 +1,2 @@
-# React-Streaming-App
+# Streamify
+
