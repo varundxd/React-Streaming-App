@@ -1,0 +1,62 @@
+.login-form {
+  position: absolute;
+  z-index: 2;
+  width: 400px;
+  max-width: calc(100% - 16px);
+  border-radius: 10px;
+  padding: 15px;
+  background-color: #111;
+}
+
+.login-form-title {
+  font-weight: 700;
+  font-size: 25px;
+  color: #fff;
+}
+
+.login-form-social {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.login-form-button {
+  margin: 10px 0;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  cursor: pointer;
+  font-weight: 600;
+  transition: 0.4s;
+}
+
+.login-form-button span {
+  margin-left: 10px;
+  font-family: "Open Sans", sans-serif !important;
+}
+
+.login-form-google {
+  background-color: #e74c3c;
+  color: #fff;
+}
+
+.login-form-google:hover {
+  background-color: #e74d3ccb;
+}
+
+.login-form-github {
+  background-color: #425058ce;
+  color: #fff;
+}
+
+.login-form-github:hover {
+  background-color: #2d343a;
+}
+
+.disableButton {
+  opacity: 0.4;
+  cursor: not-allowed;
+}

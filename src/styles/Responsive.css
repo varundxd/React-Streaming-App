@@ -1,0 +1,127 @@
+/* Mobile */
+@media (max-width: 739px) {
+  .cast {
+    grid-template-columns: 1fr;
+  }
+  .genres .btn {
+    margin: 5px 0;
+    margin-right: 5px;
+  }
+  .skeleton-img {
+    height: 500px;
+  }
+  .searchResults-container {
+    grid-template-columns: 1fr;
+  }
+  .grid-layout {
+    grid-template-columns: 1fr 1fr;
+  }
+  .genres-list {
+    position: static;
+  }
+  .skeleton-img {
+    height: 250px;
+  }
+  .watch-link {
+    margin-bottom: 20px;
+  }
+  .header-logo-mobile {
+    display: block;
+  }
+  .header-logo-mobile span {
+    font-size: 20px;
+    color: #fff;
+  }
+  .toggle-menu-icon {
+    display: flex !important;
+  }
+  .banner-info-overview {
+    display: none;
+  }
+  .banner-info-title {
+    font-size: 16px;
+  }
+  .watch-tv-season-img {
+    width: 30%;
+  }
+}
+
+/* Tablet */
+@media (min-width: 740px) and (max-width: 1023px) {
+  .cast {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  .skeleton-img {
+    height: 300px;
+  }
+  .searchResults-container {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  .grid-layout {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  .skeleton-img {
+    height: 350px;
+  }
+  .banner-info-title {
+    font-size: 25px;
+  }
+  .info-esp-season {
+    flex: 1;
+    border-bottom-left-radius: 0px;
+  }
+  .watch-tv-season-img {
+    width: 20%;
+  }
+}
+
+/* Tablet and Mobile */
+@media (max-width: 1023px) {
+  .home-page {
+    margin-top: 80px;
+  }
+  .details-poster {
+    width: 300px;
+    text-align: center;
+    border-radius: 8px;
+    margin: 0 auto;
+  }
+  .details-info {
+    width: 100%;
+    margin-top: 30px;
+  }
+  .simularMovie {
+    margin-top: 40px;
+    width: 100%;
+  }
+  .watch-tv {
+    width: 100%;
+  }
+  .watch-tv-other-season {
+    width: 100%;
+    height: auto;
+    margin-top: 40px;
+  }
+  .watch-wrap {
+    width: 100%;
+  }
+  .watch-tv-link {
+    flex-direction: row;
+  }
+  .deltele-favorite {
+    display: block !important;
+    opacity: 0.7;
+  }
+  .watch-tv-other-season {
+    margin-top: 40px;
+  }
+  .banner {
+    display: none;
+  }
+}
+
+@media (min-width: 1024px) {
+  .banner {
+    aspect-ratio: 2/1;
+  }
+}
