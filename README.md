@@ -17,3 +17,11 @@ Streamify is a powerful React.js application designed for watching movies and TV
 - 🚀 **GitHub and Google Login:** Enhance your experience by logging in with your GitHub or Google account for personalized features.
 
 - 📱 **Responsive Design:** Enjoy streaming on various devices with Streamify's responsive design, adapting to different screen sizes.
+
+## How to Use:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/Streamify.git
+   cd Streamify
+   
